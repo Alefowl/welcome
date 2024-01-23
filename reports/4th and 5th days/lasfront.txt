@@ -2,6 +2,9 @@
 Добавление книги
 сайт: https://www.alefowl.com/
 доступ: зарегистрированный пользователь, Contributor
+окружение: OC: Windows 10 Версия 22H2,
+           браузер: Chrome Версия 120.0.6099.225
+
 
 The metabook: Каштанка, v.1 (7 chapters)
 
