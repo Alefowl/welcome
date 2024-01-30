@@ -1,5 +1,5 @@
 30.01.2024
-Тестирование сайта alefowl.com в статусе Contributer.
+Тестирование сайта alefowl.com в статусе Contributor.
 "ОС Windows 10 Pro, версия 20H2 браузер Chrome версия 120.0.6099.217"
 
 1. Вкладка "My books" вкладка выглядит сырой
