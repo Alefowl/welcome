@@ -55,7 +55,7 @@ DELETE FROM FOOD;
 
 *8. Удаление всей таблицы*
 
-DROP TABLE books;
+DROP TABLE FOOD;
 
 ### Работа с Java 8
 
