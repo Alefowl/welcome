@@ -59,4 +59,14 @@ DROP TABLE books;
 
 ### Работа с Java 8
 
+1. Скачивание Java Development Kit (64bit)
+2. Установка программы
+3. Открытие командной строки с помощью Win + R, ввод "cmd"
+4. Ввод команды "java -version"
+5. Результат: 
 
+java version "1.8.0_351"
+
+Java(TM) SE Runtime Environment (build 1.8.0_351-b10)
+
+Java HotSpot(TM) 64-Bit Server VM (build 25.351-b10, mixed mode)
