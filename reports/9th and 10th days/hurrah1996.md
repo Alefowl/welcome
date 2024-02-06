@@ -18,4 +18,4 @@ The author:
 
 Year of translation: 
 
-The language of a book: 
+The language of a book: 2000
