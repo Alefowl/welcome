@@ -1,0 +1,14 @@
+дата: 08.02.2024
+сайт: https://www.alefowl.com
+предусловие: Статус пользователя: Contributor
+окружение: OC: Windows 10 Версия Single Language, браузер: Yandex Версия 23.11.3.965
+
+Добавляемая книга:
+
+The title: L’IDIOT
+The author: Ф.М.Достоевский
+The metabook for this book: Идиот, v.1 (54 chapters)
+Year of translation: 1887
+The language of a book: French
+Imprint: 1868-1869
+
