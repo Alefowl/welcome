@@ -1,0 +1,43 @@
+Продукт: https://www.alefowl.com/
+Дата проведения работ: 08.04.2024
+
+Работа с БД
+
+1. После установки создайте базу данных и таблицу в ней (минимум 5 атрибутов) с помощью sql-запросов
+ CREATE TABLE sixth_day 
+ (Id SERIAL PRIMARY KEY,
+ FirstName VARCHAR(255),
+ LastName VARCHAR(255),
+ Email VARCHAR(255),
+ Age INTEGER
+ );
+
+2. Внесите в базу данных 3 записи с помощью sql-запросов
+ INSERT INTO sixth_day  (FirstName, LastName, Email, Age)
+ VALUES
+ ('Andrey', 'Gorbachev', 'andrey@gmail.com', 19),
+ ('Michail', 'Vysochin', 'michail@gmail,com', 20),
+ ('Dmitriy', 'Galushkin', 'dmitriy@gmail.com', 21);
+
+3. Измените 3 записи с помощью sql-запросов
+ UPDATE sixth_day
+ SET Age = Age + 10;
+
+4. Добавьте 1 колонку к таблице с помощью sql-запросов
+ ALTER TABLE sixth_day
+ ADD Phone VARCHAR(20) NULL;
+
+5. Удалите 2 записи с помощью sql-запросов
+ DELETE FROM sixth_day
+ WHERE id IN (1, 2);
+
+6. Очистите всю таблицу с помощью sql-запросов
+ TRUNCATE sixth_day;
+
+7. Удалите таблицу
+  DROP TABLE sixth_day;
+
+Установка
+На сайте java выбран JDK, распакован.
+Проверена версия через командную строку: java -version java version "1.8.0_401"
+
