@@ -1,0 +1,14 @@
+Дата проведения тестирования: 02.05.2024
+Окружение: Окружение: ОС - Windows 10 Домашняя Версия 22H2, Браузер - Google Chrome Версия Версия 121.0.6167.86
+
+The title: Marriage and morals
+The author: Bertrand Russell
+The metabook for this book: Marriage and Morals, v.1 (21 chapters)
+Year of translation: 1929
+The language of a book: English
+Imprint:  Taylor&Francis
+
+Рекомендации по разметки и добавлению книг:
+1. объяснение ошибки при добавлении книги
+2. выбор даты через календарь 
+3. кнопка "check..." непонятна для чего нужна, требуются пояснения 
