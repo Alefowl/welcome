@@ -1,0 +1,72 @@
+Работа с СУБД PostgreSQL.
+
+Создание базы данных:
+
+CREATE DATABASE books;
+
+Создание таблицы в базе данных:
+
+CREATE TABLE list_of_books (
+	 id INTEGER NOT NULL PRIMARY KEY,
+         title VARCHAR(255) NOT NULL,
+	 author VARCHAR(255) NOT NULL,
+         language VARCHAR(50) NOT NULL,
+	 year_of_publishing DATE NULL,
+         publishing_house VARCHAR(255) NOT NULL
+);
+
+Заполнение таблицы данными:
+
+INSERT INTO list_of_books (
+	id, title, author, language, year_of_publishing, publishing_house)
+VALUES ('1', 'Woe from wit', 'Griboyedov', 'english', '1901-01-03', 'MIF'),
+       ('2', 'Uncle Vanya', 'Chekhov', 'english', '1962-03-01', 'Slovo'),
+       ('3', 'Estupido', 'Dostoevsky', 'spanish', '2015-12-05', 'ABC');
+
+Изменение записей в таблице:
+
+UPDATE list_of_books 
+SET title='Kashtanka'
+WHERE id='2';
+
+UPDATE list_of_books 
+SET year_of_publishing='1954-02-01'
+WHERE id='1';
+
+UPDATE list_of_books 
+SET publishing_house='Albus' 
+WHERE language='english' AND author like 'G%';
+
+Добавление колонки в таблицу:
+
+ALTER TABLE list_of_books 
+ADD COLUMN contributor VARCHAR(100) NULL;
+
+Удаление записей:
+
+DELETE from list_of_books 
+WHERE id>2;
+
+DELETE from list_of_books 
+WHERE language='english' and author='Griboyedov';
+
+Очищение таблицы:
+
+TRUNCATE TABLE list_of_books;
+
+Удаление таблицы:
+
+DROP TABLE list_of_books;
+
+
+Работа с Java.
+
+1.Скачала JDK 1.8
+2.Установила программу, запустив инсталлятор и следуя его инструкциям.
+3.Вручную настроила переменные окружения (JAVA_HOME, path).
+4.Чтобы удостовериться в правильности настроек, в командной строке ввела
+java -version. 
+5.Результат: C:\Users\see_m>java -version
+java version "1.8.0_411"
+Java(TM) SE Runtime Environment (build 1.8.0_411-b09)
+Java HotSpot(TM) 64-Bit Server VM (build 25.411-b09, mixed mode)
