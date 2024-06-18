@@ -49,7 +49,7 @@ parts INTEGER
 + DELETE FROM cities WHERE title='Quebec'
 
 ### 2.7. Очищаем таблицу:
-+ DELETE FROM books; 
++ DELETE FROM cities; 
 
 ### 2.8. Удаляем таблицу
 + DROP TABLE cities; 
