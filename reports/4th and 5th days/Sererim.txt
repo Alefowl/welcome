@@ -7,8 +7,20 @@
 Предусловия: тестирование сайта в Contributor 
 Дата проведения тестирования: 20.06.2024
 
+
+Реквизиты:
+    Ebooks Edizione Faligi
+    Titolo dell’opera:La nuova Atlantide
+    Autore: Francis Bacon
+    Traduzione di Dario Felice Piccolo
+    Codice ISBN: 978-88-574-1565-9
+    Prima edizione Febbraio 2011
+    © 2011 - Edizioni Faligi
+    Tutti i diritti sono riservati
+
 Тест-кейсы:
 
-1. Добавление книги New Atlantis by Francis Bacon
-
-
+1. Добавление текста книги New Atlantis by Francis Bacon на итальянском.
+    Win + Edge:
+        ОР: Ввода и разметка текста в соответсвие с help.
+        ФР: Тест пройден.
