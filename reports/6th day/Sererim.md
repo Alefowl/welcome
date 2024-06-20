@@ -91,6 +91,13 @@ WHERE status = 'dead';
 DELETE FROM test;
 ```
 
+Или
+
+```sql
+TRUNCATE TABLE test;
+```
+
+
 ### 7. Удалите таблицу.
 
 ```sql
