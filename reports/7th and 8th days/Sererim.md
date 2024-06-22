@@ -6,5 +6,9 @@
 Пользователь авторизован, статус пользователя - Contributor.
 
 
-Добавленная книга:
+Реквизиты:
 Nova Atlantis per Franciscum Baconum
+Digital version by [Brian Smith](https://www.hs-augsburg.de/~harsch/Chronologia/Lspost17/Bacon/bac_atla.html)
+
+
+Книга добавлена.
