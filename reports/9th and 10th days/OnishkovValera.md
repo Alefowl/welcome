@@ -5,9 +5,9 @@
 Браузер: Google Chrome Версия 125.0.6422.142 
 
 Параметры добавляемой книги:
-Название: La voix et le phénomène
-Автор: Jacques Derrida
-Метакнига: La voix et le phénomène
+Название:  Sobre Nietzsche
+Автор: Georges Bataille
+Метакнига: Sur Nietzsche
 Год перевода: 1990
 Язык: Испанский
 Издание: Taurus
