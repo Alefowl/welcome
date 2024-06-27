@@ -1,0 +1,16 @@
+Отчёт о добавлении книги (4-5 день стажировки)
+Выполнен: Кузенина Валерия
+
+Выбранная книга: 
+The metabook for this book: "La littérature et le mal, v.1 (54 chapters)
+The title: "Edebiyat ve kötülük"
+The language of a book: Turkish
+The author: Georges Bataille
+Year of translation: 2014
+Imprint: trans. Ayşegül Sönmezay, Istanbul: Ayrıntı
+
+
+Пожелания:
+1. Добавить больше metabook для выбора
+2. Возможность сохранять промежуточный вариант текста для книг
+3. Во время набора текста для книг создать отдельный счётчик - сколько глав книг сейчас создано
