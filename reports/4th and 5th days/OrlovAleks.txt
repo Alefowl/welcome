@@ -1,0 +1,25 @@
+Тестировщик: Орлов Александр
+Ссылка: http://www.alefowl.com
+Дата: 2.08.2024
+Операционная система: macOS Sonoma 14.5
+Браузер: Safari Версия 17.5 (19618.2.12.11.6)
+Статус пользователя: зарегистрирован (Contributor).
+
+
+Реквизиты:
+
+The title: Горе от ума
+The author: Aleksandr Sergeyevich Griboyedov 
+The metabook: Горе от ума - 246 (v.1 )
+Year of translation: 1884
+The language of a book: French
+Imprint: déposé sur le site de la Bibliothèque le 26 février 2012.
+
+Пожелания:
+
+1) Добавить поиск по автору и названию книги
+2) Добавить счетчик глав
+3) Добавить информацию о создании предисловий 
+
+
+
